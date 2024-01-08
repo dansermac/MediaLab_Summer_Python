@@ -7,3 +7,8 @@ Katty Ticona
 a. Database: Hispanic Marketing Council.
 b. Information: Hispanic residents of United States 2022
 c. Interest: I would like to have  insights into the media consumption habits and advertising interests of the Hispanic population in the United States.
+
+Ronald Tello
+a. Database: Perception of gym quality
+b. Information: I would like to know people's perceptions of their gyms to conduct a study.
+c. Interest: I would like to know people's perceptions of their gyms to conduct a study.
