@@ -24,3 +24,8 @@ a. Database: National Open Data Platform b. Information: Data of the students fr
 
 a. Database: National Open Data Platform b. Information: Budget data of public universities for the years 2020 and 2021. C. Interest: I would like to study the budget management of public universities in the pandemic years.
 
+Valeria Reyes - v.reyes@pucp.edu.pe
+
+a. Database: Culture Ministry
+b. Information: Data of afroperuvian population and how the batucada is in the culture for the years 2018 and 2023.
+c. Interests: I would like to study all about afroperuvian population and the culture and music specially batucada
