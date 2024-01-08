@@ -20,3 +20,12 @@ a. Database: Proyectos sociales peruanos
 b. Information: Data sobre la cantidad de proyectos sociales que se ejecutaron en el Perú durante el 2023.
 
 c. Interest: Me gustaría saber las áreas y enfoques de incidencia, la cantidad de participantes y los públicos objetivos de los proyectos sociales del país.
+
+
+Luis - luis.gonzaless@pucp.edu.pe
+
+a. Base de datos: Dafo
+
+b. Información: Datos sobre los proyectos que concursaron por los incentivos económicos en el 2023
+
+c. Interés: Me gustaría analizar los presupuestos propuestos en la pre producción de cada uno de los proyectos presentados en los concursos.
