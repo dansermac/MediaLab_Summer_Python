@@ -12,3 +12,7 @@
 ### a. Database: Perception of gym quality
 ### b. Information: I would like to know people's perceptions of their gyms to conduct a study.
 ### c. Interest: I would like to know people's perceptions of their gyms to conduct a study.
+
+### a. Database: Opinion Journalism
+### b. Information: Data on Opinion Journalism, Citizen Journalism and Columns
+### c. Interest: I would like to know how different network groups work with opinion journalism from 2013 to 2023.
