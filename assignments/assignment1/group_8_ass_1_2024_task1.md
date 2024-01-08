@@ -18,7 +18,7 @@ a. Database: Participatory Budget-BID
 b. Information: Data of the level of execution of participatory budgets in South America
 c. Interest: I would like to see if there is a correlation between participatory budget execution and political crisis and how this differ from regular budget execution in the same context.
 
-Hans Hurtado
+Hans Hurtado - a20191862@pucp.edu.pe
 
 a. Database: National Open Data Platform b. Information: Data of the students from public universities for the years 2020, 2021, 2022 and 2023 C. Interest: I would like to analyze the information on dropouts in public universities in Peru.
 
