@@ -1,9 +1,19 @@
 
-# Groups
-| Group1                           | Group2                             | Group3                              | Group4                            | Group5                                | Group6                             | Group7                            | Group8                               |
-| -------------------------------- | ---------------------------------- | ----------------------------------- | --------------------------------- | ------------------------------------- | ---------------------------------- | --------------------------------- | ------------------------------------ |
-| SALMÓN SALAZAR, GISELLA VELDA    | BELAPATIÑO DOMINGUEZ, NATHALY RUTH | QUEQUEJANA MELO, LAURA SOPHIA       | ARRELUCEA SUAREZ, ANDREA MIRANDA  | ORE PRIETO, EDUARDO JOSUE             | BOLIVAR ESPINOZA, CARELLIA DALESKA | ALZAMORA ESPINOZA, PAOLA FERNANDA | HURTADO YANTAS, HANS CRISTIAN        |
-| PICHIHUA VEGAS, SOFIA PAMELA     | ERQUIAGA SALGADO, MARCO ANTONIO    | AGUIRRE BLAS, DAVIES ANDERS         | VERA MARQUINA, CLAUDIA ESTEFANIA  | QUISPE HURTADO, KATIA LUCERO          | MONTES CARRILLO, ALLISON SILVIA    | GONZALES CENTENO, JULIA GISELLE   | REYES COLQUEPISCO, VALERIA ELIZABETH |
-| DE LA FUENTE CHUNGA, HECTOR HUGO | SERVAN MACEDO, DANIEL ALONSO       | JUAREZ REYNA, MARIEL ALEJANDRA      | DU PONT GONZALES, DIEGO ALEXANDER | ARGOMEDO PIMINCHUMO, PAMELA ALEXANDRA | ZEVALLOS MENDEZ, AARON ALONSO      | AMARO YALTA, HILLARY ESTEFANY     | NARVAEZ LEYVA, GABRIELA MARIE        |
-| PAREDES CHAVEZ, PABLO CRISTIAN   | MORI LLACCTAS, JUAN ANTONIO        | AZAÑEDO GAMARRA, VANESSA ALESSANDRA | TICONA CENTENO, KATTY BERENICE    | JAUREGUI VERA, ANA BRIGITTE           | QUENAYA DE LA CRUZ, FAVIO MARCELO  | GONZALES SILVANO, JOSE LUIS       |
-| LOAYZA EVANGELISTA, MIGUEL ANGEL | GARCIA VERGARA, GABRIELA           | PINARES ORDINOLA, EMILY ROSE        | TELLO ESCOBAR, RONALD ALBERTO     | CORDOVA CALLE, EHZER HADID            | VASQUEZ VILCA, JOE ANDRE           |
+# List of data bases
+### Here everybody can detail the databases that they want to study
+Gabriela Narvaez
+
+1.
+a. Database: Survey to health establishments that have neonatal and obstetric functions
+b. Information: Data about the infraestructure, performance, capabilities of the staff, among others, of the high, medium and low levels of health establisments that have neonatal and obstetric functions
+c. Interest: I would like to find the key elements that diferenciate the performance in each level of attention. 
+
+2.
+a. Database: Political Database of the Americas
+b. Information: Data of political institutions and processes, national constitutions, powers of the State, elections, political-constitutional studies and other topics linked to the strengthening of democracy.
+c. Interest: I Would like to evaluate if the type of system of  balance of the powers of State have any impact on the strenghthening of democracy in Latin America
+ 
+3.
+a. Database: Participatory Budget-BID
+b. Information: Data of the level of execution of participatory budgets in South America
+c. Interest: I would like to see if there is a correlation between participatory budget execution and political crisis and how this differ from regular budget execution in the same context.
