@@ -23,3 +23,11 @@ a. Database: Ventas_Una_Piedra_2023
 b. Information: Data about Uno Piedra's sales volume for the years 2023
 
 c. Interest: I would like to study information on sales volume and consumer behavior to plan marketing activities more efficiently.
+
+### Daniel Serván - daniel.servanm@gmail.com
+
+a. Database: redesarrollope
+
+b. Information: Thinktank which transform economy researches on a media product
+
+c. Interest: Everythig wich can be useful at media, videography and photography
